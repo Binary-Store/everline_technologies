@@ -1,8 +1,14 @@
 .header-wrapper-1 .logo-area {
-  max-width: 250px;
+  max-width: 150px;
 }
 @media (max-width: 768px) {
   .header-wrapper-1 .logo-area {
     max-width: 150px;
   }
+}
+.rts-footer-area .logo-area a {
+  width: 250px !important;
+}
+.rts-footer-area .logo-area img {
+  width: 100%;
 }

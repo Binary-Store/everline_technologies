@@ -14813,7 +14813,7 @@ li.has-dropdown:hover .submenu {
 }
 
 .bg-solution {
-    background: #0B0A33;
+    background: #180303;
 }
 
 .single-solution-style-one {
@@ -14853,7 +14853,7 @@ li.has-dropdown:hover .submenu {
 }
 
 .single-solution-style-one:hover .icon img {
-    filter: brightness(0) saturate(100%) invert(20%) sepia(100%) saturate(5128%) hue-rotate(243deg) brightness(98%) contrast(106%);
+    filter: hue-rotate(0deg) saturate(2) brightness(0.4) contrast(2);
 }
 
 .single-solution-style-one:hover .title {
@@ -18227,7 +18227,7 @@ li.has-dropdown:hover .submenu {
 }
 
 .single-service-style-two:hover {
-    background: #3534FF;
+    background: #c60606;
     border-color: #2A2ACC;
 }
 
@@ -18591,7 +18591,7 @@ li.has-dropdown:hover .submenu {
 .single-service-list .icon {
     height: 96px;
     width: 96px;
-    background: #3534FF;
+    background: #c60606;
     display: flex;
     align-items: center;
     justify-content: center;

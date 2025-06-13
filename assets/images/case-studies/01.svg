@@ -1,6 +1,6 @@
 <svg width="1440" height="763" viewBox="0 0 1440 763" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <path d="M0 0L1440 2.00262V763H0V0Z" fill="url(#pattern0_2395_5718)"/>
-<path d="M0 0L1440 2.00262V763H0V0Z" fill="#3534FF" style="mix-blend-mode:hue"/>
+<path d="M0 0L1440 2.00262V763H0V0Z" fill="#c60606" style="mix-blend-mode:hue"/>
 <defs>
 <pattern id="pattern0_2395_5718" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_2395_5718" transform="matrix(0.000452489 0 0 0.000853976 0 -0.000429953)"/>
