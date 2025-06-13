@@ -1,0 +1,8 @@
+.header-wrapper-1 .logo-area {
+  max-width: 250px;
+}
+@media (max-width: 768px) {
+  .header-wrapper-1 .logo-area {
+    max-width: 150px;
+  }
+}
